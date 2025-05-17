@@ -117,7 +117,6 @@ if(NUM_LOOPS>=10)    {
 ## OUTPUT
 $ ./sem.o 
 
-
 ![image](https://github.com/user-attachments/assets/72a77cfc-68ca-4878-98d5-625b90b4e0af)
 
 
